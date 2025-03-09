@@ -1,2 +1,3 @@
-# vanguard-protocol
-5v5 FPS shooter game
+# Vanguard Protocol
+
+**Vanguard Protocol** is an intense, team-based first-person shooter where strategic gameplay and fast reflexes lead to victory. In this 5v5 battle, each team starts on opposite sides of the map with the goal of gathering items scattered across the battlefield. Players must fight to collect these items while defending their own territory and attacking the opposing team’s gatherers. The first team to collect at least 3 items wins, with the 5th item being the most valuable, offering 2 points. The catch? The longer a player stays in one spot to gather an item, the more vulnerable they become to enemy attacks. Only the most coordinated and skilled teams will come out on top. Built independently by a complete newbie, Vanguard Protocol offers a fresh take on tactical combat without the typical bomb planting or objective-based gameplay. Dive into the action, defend your turf, and prove your team's dominance.
